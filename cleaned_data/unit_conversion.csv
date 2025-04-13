@@ -1,0 +1,12 @@
+from_unit,conversion_factor,to_unit
+g,1.0,g
+ounce,28.0,g
+Kg,1000.0,g
+pound,453.592,g
+mL,1.0,g
+tbsp,21.25,g
+cup,128.0,g
+tsp,5.69,g
+pint,473.177,g
+gallon,3785.0,g
+clove,3628.73896,g
