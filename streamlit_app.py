@@ -29,7 +29,7 @@ nutrient_df = pd.read_csv("cleaned_data/nutrient_df.csv")
 unit_df = pd.read_csv("cleaned_data/unit_conversion.csv")
 footprints_df = pd.read_csv("cleaned_data/carbon_footprints.csv")
 
-st.markdown("<h1 style='text-align: center;'>Alternative Recipe</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>SustainaChoice</h1>", unsafe_allow_html=True)
 
 image_columns = st.columns(3)
 with image_columns[0]:
